@@ -1,0 +1,24 @@
+/*Login Home */
+@media(max-width: 1000px) {
+	 .logar img {
+                width: 90%;
+                
+            }
+    .logar figcaption{
+                padding-top: 30%;
+        width: 600px;
+                
+            }
+}
+/*Menu */
+@media(max-width: 1000px) {
+	 .logar img {
+                width: 90%;
+                
+            }
+    .logar figcaption{
+                padding-top: 30%;
+        width: 600px;
+                
+            }
+}

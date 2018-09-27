@@ -1,0 +1,81 @@
+ 
+           /*Pagina INDEX.PHP Custon MENU*/
+            body {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            }
+            
+        
+            .logar figcaption {
+                width: 40%;
+                margin: 0 auto;
+              
+            }
+            
+            
+            
+            .form-box {
+               
+                width: 100%;
+                padding: 20px 40px 40px;
+               
+                text-align: center;
+                
+               
+                border-top: 4px solid #8A0808;
+            }
+            
+            .form-box input {
+                width: 100%;
+                padding: 10px;
+                height: 40px;
+                border: 1px solid #ccc;
+                background: #fafafa;
+                transition: 0.2s ease-in-out;
+            }
+            
+            .form-box input:focus {
+                outline: 0;
+                background: #eee;
+            }
+            
+            .form-box input[type="text"] {
+                border-radius: 5px 5px 0 0;
+            }
+            
+            .form-box #Password {
+                border-radius: 0 0 5px 5px;
+                border-top: 0;
+            }
+           
+            .btn-custom {
+                font-weight: bold;
+                background-color: #8A0808;
+                border-color: #8A0808;
+                color: #ffffff;
+            }
+           
+     
+            
+            .copyright {
+                position: fixed;
+                bottom: 0px;
+                width: 100%;
+                padding: 20px;
+                text-align: center;
+                color: #2a2828;
+                font-size: 12px;
+                letter-spacing: 0.2px;
+                border-radius: 0;
+                border: 0;
+                background: #e0e0e0;
+            }
+            /*Pagina Avisos.PHP custom AVisos*/
+            .aviso img{
+                margin: 0px auto;
+            }
+
+            .cadastro h1,h2 {
+                text-align: center;
+
+            }
+         
