@@ -2,7 +2,10 @@
 
 Passo a passo para rodar o projeto
 
-- Execute a dump que disponibilizei na pasta raiz do projeto
+- Baixe o projeto dentro da pasta http do xampp
+* C:\xampp\htdocs\gerenciador_condominio
+
+- Execute a dump que disponibilizei na pasta raiz do projeto no mysqll
 
 ## Navegador
 
